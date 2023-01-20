@@ -9,11 +9,17 @@ var testArr = [6,3,5,1,2,4]
 // Print each array value and the sum so far
 // The expected output will be: 
 // Num 6, Sum 6
+console.log(testArr[0])
 // Num 3, Sum 9
+console.log(testArr[1])
 // Num 5, Sum 14
+console.log[testArr[2]]
 // Num 1, Sum 15
+console.log(testArr[3])
 // Num 2, Sum 17
+console.log(testArr[4])
 // Num 4, Sum 21
+console.log(testArr[5])
 
 // Value * Position
 
