@@ -13,11 +13,10 @@
     background-color: green;
    }
    #navigation{
-    border: 20px white;
-    border-style: solid;
     min-height: 300px;
     width: 200px;
     background-color: blue;
+    padding: 5%;
    }
    #main_content{
     min-height: 400px;
