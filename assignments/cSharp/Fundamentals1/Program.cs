@@ -13,7 +13,29 @@
 //     Console.WriteLine(rand.Next(10,21));
 // }
 
-// Modify the previous loop to add the random values together and print the sum after the loop finishes.
+// Modify the previous loop to add the random values together and print the sum after the loop finishes
+
+rand = 0
+sum = 0
+
+for(int y = 0; y < 5; y++) {
+    rand = randNext(10,21);
+    Console.WriteLine(rand);
+    sum += rand;
+
+}
+
+
+
+int sum = 0;
+int newRandomNumber = 0;
+for(int j = 0; j < 5; j++){
+    newRandomNumber = rand.Next(10, 21);
+    //Console.WriteLine(newRandomNumber);
+    sum += newRandomNumber;
+    //Console.WriteLine("Sum is currently: " + sum);
+}
+
 
 //Create a new loop that prints all values from 1 to 100 that are divisible by 3 or 5, but not both.
 //  for(int i = 1; i <= 100; i++) 
@@ -50,3 +72,22 @@ for (int i = 1; i <= 100; i++)
         }  
 }  
 //Modify the previous loop once more to now also print "FizzBuzz" for numbers that are multiples of both 3 and 5. 
+for (int i = 1; i <= 100; i++)  
+{  
+        if (i % 3 == 0 && i % 5 == 0)  
+        {  
+            Console.WriteLine("FizzBuzz");  
+        }  
+        else if (i % 3 == 0)  
+        {  
+           Console.WriteLine("FizzBuzz");  
+        }  
+        else if (i % 5 == 0)  
+        {  
+           Console.WriteLine("FizzBuzz");  
+        }  
+        else  
+        {  
+            Console.WriteLine(i);  
+        }  
+}  
