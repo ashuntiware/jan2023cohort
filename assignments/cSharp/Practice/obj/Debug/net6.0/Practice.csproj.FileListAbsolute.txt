@@ -1,0 +1,15 @@
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Practice/bin/Debug/net6.0/Practice
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Practice/bin/Debug/net6.0/Practice.deps.json
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Practice/bin/Debug/net6.0/Practice.runtimeconfig.json
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Practice/bin/Debug/net6.0/Practice.dll
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Practice/bin/Debug/net6.0/Practice.pdb
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Practice/obj/Debug/net6.0/Practice.csproj.AssemblyReference.cache
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Practice/obj/Debug/net6.0/Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Practice/obj/Debug/net6.0/Practice.AssemblyInfoInputs.cache
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Practice/obj/Debug/net6.0/Practice.AssemblyInfo.cs
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Practice/obj/Debug/net6.0/Practice.csproj.CoreCompileInputs.cache
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Practice/obj/Debug/net6.0/Practice.dll
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Practice/obj/Debug/net6.0/refint/Practice.dll
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Practice/obj/Debug/net6.0/Practice.pdb
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Practice/obj/Debug/net6.0/Practice.genruntimeconfig.cache
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Practice/obj/Debug/net6.0/ref/Practice.dll
