@@ -1,0 +1,15 @@
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Fundamentals1/obj/Debug/net6.0/Fundamentals1.csproj.AssemblyReference.cache
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Fundamentals1/obj/Debug/net6.0/Fundamentals1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Fundamentals1/obj/Debug/net6.0/Fundamentals1.AssemblyInfoInputs.cache
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Fundamentals1/obj/Debug/net6.0/Fundamentals1.AssemblyInfo.cs
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Fundamentals1/obj/Debug/net6.0/Fundamentals1.csproj.CoreCompileInputs.cache
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Fundamentals1/bin/Debug/net6.0/Fundamentals1
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Fundamentals1/bin/Debug/net6.0/Fundamentals1.deps.json
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Fundamentals1/bin/Debug/net6.0/Fundamentals1.runtimeconfig.json
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Fundamentals1/bin/Debug/net6.0/Fundamentals1.dll
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Fundamentals1/bin/Debug/net6.0/Fundamentals1.pdb
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Fundamentals1/obj/Debug/net6.0/Fundamentals1.dll
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Fundamentals1/obj/Debug/net6.0/refint/Fundamentals1.dll
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Fundamentals1/obj/Debug/net6.0/Fundamentals1.pdb
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Fundamentals1/obj/Debug/net6.0/Fundamentals1.genruntimeconfig.cache
+/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/Fundamentals1/obj/Debug/net6.0/ref/Fundamentals1.dll
