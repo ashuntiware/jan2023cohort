@@ -159,7 +159,7 @@ Dictionary<string,string> TestDict = new Dictionary<string,string>();
 
 
 
-// // 8. Generate a Dictionary
+// // 8. Generate a Dictionary Function Works
 
 // // Given a List of names and a List of integers, create a dictionary where the key is a name from the List of names and the value is a number from the List of numbers. Assume that the two Lists will be of the same length. Don't forget to print your results to make sure it worked.
 
@@ -170,26 +170,26 @@ Dictionary<string,string> TestDict = new Dictionary<string,string>();
 // 	"James": 7,
 // 	"Monica": 10
 // } 
-List<string> TestStringList2 = new List<string>() {"Harry", "Steve", "Carla", "Jeanne"};
-List<int> TestIntList2 = new List<int>() {2,7,12,9};
+// List<string> TestStringList2 = new List<string>() {"Harry", "Steve", "Carla", "Jeanne"};
+// List<int> TestIntList2 = new List<int>() {2,7,12,9};
 
-static Dictionary<string,int> GenerateDictionary(List<string> Names, List<int> Numbers)
-{
-    Dictionary<string, int> CreateDictionary = new Dictionary<string, int>();
-    for (int i = 0; i < Names.Count; i++){
-        CreateDictionary.Add(Names[i], Numbers[i]); 
+// static Dictionary<string,int> GenerateDictionary(List<string> Names, List<int> Numbers)
+// {
+//     Dictionary<string, int> CreateDictionary = new Dictionary<string, int>();
+//     for (int i = 0; i < Names.Count; i++){
+//         CreateDictionary.Add(Names[i], Numbers[i]); 
         
-    }
-    foreach(KeyValuePair<string, int> value in CreateDictionary) {
-        Console.WriteLine("{0}'s number is {1}", value.Key, value.Value);
-    }
-    return CreateDictionary; 
-}
+//     }
+//     foreach(KeyValuePair<string, int> value in CreateDictionary) {
+//         Console.WriteLine("{0}'s number is {1}", value.Key, value.Value);
+//     }
+//     return CreateDictionary; 
+// }
 
-GenerateDictionary(TestStringList2, TestIntList2);
-Console.WriteLine(GenerateDictionary);
-// We've shown several examples of how to set your tests up properly, it's your turn to set it up!
-// Your test code here
+// GenerateDictionary(TestStringList2, TestIntList2);
+// Console.WriteLine(GenerateDictionary);
+// // We've shown several examples of how to set your tests up properly, it's your turn to set it up!
+// // Your test code here
 
 
 
