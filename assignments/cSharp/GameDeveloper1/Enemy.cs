@@ -13,10 +13,9 @@ class Enemy {
     
     public void RandomAttack() {
         var random = new Random ();
-        var list = new List<Attack>();
-        int randAttack = random.Next(list.Count);
-        Console.WriteLine(list[randAttack]);
-        
+        var randomList = new List <string>{"fireball", "punch", "throw"}; // List of random Attacks
+        int index = random.Next(randomList.Count); //Generates a number between 1 and 3
+        Console.WriteLine(randomList[index]);
     }}
 
 
