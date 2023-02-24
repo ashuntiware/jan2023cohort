@@ -3,10 +3,8 @@ Console.WriteLine("Hello, World!");
 // Create an instance of Enemy 
 Enemy badguy = new Enemy("badguy");
 Enemy monster = new Enemy("monster");
-MeleeFighter john = new MeleeFighter("john");
 Console.WriteLine(badguy.Name);
 Console.WriteLine(monster.Name);
-Console.Write(john.Name);
 
 // Create an instance of 3 Attacks
 Attack fireball = new Attack("fireball", 20);
@@ -26,11 +24,20 @@ monster.AttackList.Add(fireball);
 monster.AttackList.Add(punch);
 monster.AttackList.Add(throwBall);
 
-
+// Calling bad guy to perform random attack method
 badguy.RandomAttack();
 
-badguy.PerformAttack(monster, fireball);
+// Calling bad guy to perform attack against monster and the health will decrement by the chosen attack's damage amount. 
+// badguy.PerformAttack(monster, fireball);
 
-john.RageMethod();
 
-john.PerformAttack(monster, fireball);
+
+// Creating an instance of Melefighter
+MeleeFighter john = new MeleeFighter("john");
+
+//Calling Melefighter john to pefrom rage method
+john.RageMethod(monster);
+
+
+//Calling Melefighter john to pefrom rage method
+// john.PerformAttack(monster, fireball);
