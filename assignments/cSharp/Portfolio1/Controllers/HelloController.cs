@@ -5,17 +5,22 @@ using Microsoft.AspNetCore.Mvc;
 namespace Portfolio1.Controllers;   
 public class HelloController : Controller   // Remember inheritance?    
 {      
-    [HttpGet] // We will go over this in more detail on the next page    
-    [Route("")] // We will go over this in more detail on the next page
+    [HttpGet("")] // We will go over this in more detail on the next page    
+    public string Index () {
+        return "Home";
+    }
 
-    [HttpGet] // We will go over this in more detail on the next page    
-    [Route("Projects")] // We will go over this in more detail on the next page
 
-    [HttpGet] // We will go over this in more detail on the next page    
-    [Route("Contacts")] // We will go over this in more detail on the next page
-    public string Index()        
+    [HttpGet("projects")] // We will go over this in more detail on the next page    
+        public string Projects (){
+        return "Projects";
+    }
+    
+    [HttpGet("contacts")] // We will go over this in more detail on the next page    
+ 
+    public string ContactsForm(string formInput)        
     {            
-    	return "Hello World from HelloController!";        
+    	return "Contacts";        
     }    
 }
 
